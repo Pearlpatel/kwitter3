@@ -1,0 +1,54 @@
+#header{
+    font-family: 'Shadows Into Light', cursive;
+font-size: xx-large;
+font-weight: bold;
+}
+
+#login_button{
+    background-image: linear-gradient(to right top, #3ff5f3, #54eebc, #8be27b, #c1ce3c, #f6b011);
+}
+body{
+    background-image: linear-gradient(to right top, #eb58f2, #ff3c94, #ff8031, #e7c100, #72ee44);
+    font-size: large;
+}
+#user_input{
+    border-color: black; 
+}
+#logo{
+    height: 270px;
+    width: 270px;
+    border-radius: 50%;
+}
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(205,855,235,0.8);border-radius: 15px;
+}
+#head{
+    padding-left: 30px;
+    font-family: fantasy;
+    font-size: xxx-large;
+}
+#welcome{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#add_room_button{
+   background-color: darkgrey;
+    font-size:medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#room_name{
+    border-color: black;
+    font-size: medium;
+}
+#logout{
+  background-color:darkseagreen; 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
